@@ -1,12 +1,10 @@
 ### Hi there, I'm Toby  - aka [28toby10][discord] 👋 
 
-## I am a learning developer, novice photographer, and an enthusiastic person!
+## I am a learning developer and an enthusiastic person!
 
-- 👀 I'm interested in ...
+- 👀 I'm interested in FiveM
 - 🌱 I’m currently learning everything 🤣
 
-
-<br />
 
 ### Languages and Tools:
 
