@@ -6,10 +6,6 @@
 - 🌱 I’m currently learning everything 🤣
 
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />][discord]
-
 <br />
 
 ### Languages and Tools:
@@ -30,3 +26,5 @@
 [css3]: https://www.w3schools.com/w3css/
 [javascript]: https://www.w3schools.com/js/
 [mysql]: https://www.w3schools.com/mySQl/
+
+![Snake animation](https://github.com/jhcpeixoto/jhcpeixoto/blob/output/github-contribution-grid-snake.svg)
